@@ -42,7 +42,7 @@ Ensure you have the following installed on your local machine:
 3. **Install Required Packages**
 
    ```bash
-   pip3 install bentoml scikit-learn pandas
+   pip3 install bentoml==1.3.5 scikit-learn pandas
    ```
 
 4. **Navigate to the Project Directory**
